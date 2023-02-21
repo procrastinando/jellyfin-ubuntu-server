@@ -37,4 +37,6 @@ After the first setup, in Dashboard/Plugins install:
 * OpenSubtitles
 * Reports
 After that, restart Jellyfin:
+```
 sudo /etc/init.d/jellyfin restart
+```

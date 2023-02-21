@@ -1,5 +1,5 @@
 # A way to install JellyFin on ubuntu server and setup the paths locations
-
+Documentation [link](https://jellyfin.org/docs/general/installation/linux#ubuntu).
 ## 1. Install requirements:
 ```
 sudo rm /etc/apt/sources.list.d/jellyfin.list
